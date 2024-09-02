@@ -1,2 +1,2 @@
 # DebuggDemo
-An assignment about debugging in java
+An assignment about debugging and stacktrace in java
